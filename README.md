@@ -11,6 +11,7 @@ The Sierpinski Triangle has many interesting properties and has applications in 
 
 https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
 
+Program is built simply using the JavaFX elements.
 Demo run with the number of order input: 3
 
 ![image](https://user-images.githubusercontent.com/24220136/230288225-5e5846c7-2dcf-48f0-9916-46a480c2090c.png)
