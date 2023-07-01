@@ -10,4 +10,6 @@ Application illustrates the Sierpinski Triangle which is a fractal shape.  Progr
 - Program is built simply using the JavaFX elements and using the Recursion method to solve the problem.
 Demo run with the number of order input: 3
 
-![image](https://user-images.githubusercontent.com/24220136/230288225-5e5846c7-2dcf-48f0-9916-46a480c2090c.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24220136/230288225-5e5846c7-2dcf-48f0-9916-46a480c2090c.png" alt="Image">
+</p>
